@@ -72,8 +72,3 @@ forward(30)
 
 exitonclick()
 
-print("by: gabriel mania aka MR.PP")
-print("ngl im hungry i want mcdonalds can i get some?")
-print(" F: 20ნ S: 20მ2 რას უდრის P?")
-print("P=F/S ესეიგი  20n/20მ2=1პა")
-print("now can i get mcd see im smart")
