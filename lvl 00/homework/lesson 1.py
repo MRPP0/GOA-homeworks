@@ -71,4 +71,4 @@ forward(30)
 
 
 exitonclick()
-
+print("65-67")
