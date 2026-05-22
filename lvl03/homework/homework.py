@@ -40,3 +40,5 @@ print(num1 + num2 + num3)
 print(num1 - num2 - num3)
 print(num1 / num2 / num3)
 print(num1 * num2 * num3)
+
+#snake-case igivea rac _ snake-case aris space chamnacvlebeli

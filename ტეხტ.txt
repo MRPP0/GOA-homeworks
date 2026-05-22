@@ -28,3 +28,26 @@ num1 = 68
 print(num1)
 
 დაიწერება ყველაზე ბოლოს რაც არის ესეიგი 68
+
+type() funqciis gamoyenebit chven shegivjlia gavigot monacemda ricxvi eaiser explination ings an strings gamodis 
+
+
+space altanrativi aris _ just like in mine craft netherite_ingot
+
+num1 = 5
+
+num2 = 10
+
+num2 / num1 = 2.0 
+
+magram
+
+num2 // num1
+
+kidev // igive ormagi gayofa amrgvalebs cifrs magalitad 10 // 7= 1
+
+** xarisxshi ayavs cifri
+
+
+
+
