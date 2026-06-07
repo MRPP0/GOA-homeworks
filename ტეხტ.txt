@@ -48,6 +48,32 @@ kidev // igive ormagi gayofa amrgvalebs cifrs magalitad 10 // 7= 1
 
 ** xarisxshi ayavs cifri
 
+inputi es aris informacia romelic gadaecema pc
+
+inputis magaltebi sheijleba iyos bankomatshi baratis secureba 
+kidev aseve sheijleba iyos printershi furclis chadeba
+
+
+output sedegi romelsac vxedavt kompiuteris info shetinais shemdeg
+
+konkatenacia aris stringebis sheertba ertmadetan da ert stringad gamotana
+chven shegvijlia gamoviyenot + rom shevartod
 
 
 
+HTML
+
+tAG ebi aris sashualeba romelic gvexmareba webstieis chonchxi html shi gvaq jalian bevri tag mag
+
+<p></p> paragraf texti gamoiyeneba teqstis damateba web sitze
+
+button tag <button></button> rom davamatod xilaki web sitsehi
+
+
+img chven shegvijlia chavamatod image ez
+
+
+container tag arian iseti tegebi romelic aqvt orive gamxsneli da damxuravi tegebi
+
+
+float aris at wiladta monacemda tipi romelic warmoadgens aramtel ricxvebs P.S. tu awdiladi gvaq int yovetvis unda davwerot cvladi float
