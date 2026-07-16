@@ -9,5 +9,12 @@ for i in range(50,200):
 
 
 
-for i in range(1,100,3):
+for i in range(0,100,2):
     print(i)
+
+
+
+for i in range(101,150,2):
+    print(i)
+
+
