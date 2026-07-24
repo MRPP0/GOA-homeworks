@@ -12,11 +12,11 @@
 #    
 #
 #
-ratio = 100
-
-while ratio < 500:
-    print(ratio)
-    ratio = ratio + 2
+#ratio = 100
+#
+#while ratio < 500:   #am kods qamoaqvs gamotovebit
+#    print(ratio)
+#    ratio = ratio + 2
 
 #
 #shio_unc = 67

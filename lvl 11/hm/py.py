@@ -35,4 +35,6 @@ while a > 0:
     print(a)
     a = a - 1
 
+# for loop chemi sityvebit aris iseti loopi romelic shegijlia icode zustad romeli ginda 
 
+# while loopshi for loopisg gansxvavebit zustad ar ici da zogjer kidevac usasrulo lopic midis
