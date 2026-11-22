@@ -1,0 +1,30 @@
+body{
+    background-color: brown;
+
+}
+
+h1{
+    background-color: white;
+    color: blue;
+    border: 2px;
+    width: 20;
+    height: 20;
+    border-radius: 50px;
+}
+
+p{
+    color: white;
+    background-color: black;
+    font-size: large;
+    border: 50px;
+    width: 200px;
+    height:200px;
+    border-radius: 25px;
+}
+
+button{
+    border-style: groove;
+    color: brown;
+    border-radius: 50px;
+    
+}

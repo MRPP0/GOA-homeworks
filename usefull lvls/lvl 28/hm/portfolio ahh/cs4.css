@@ -1,0 +1,31 @@
+body{
+    background-color:black ;
+    border: 50px;
+    border-color: white;
+    border-style: groove;
+}
+h1{
+    color: blue;
+    background-color: white;
+    border: 50px;
+    border-color: grey;
+    border-style: dotted;
+}
+p{
+    color:white;
+    font-size: large;
+}
+b{
+    color: gray;
+    font-size: larger;
+}
+li{
+    color:white
+}
+
+button{
+    border-style: groove;
+    color: gray;
+    border-radius: 50px;
+    
+}
